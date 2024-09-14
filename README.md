@@ -55,9 +55,7 @@ In this notebook we show how to build a conversational RAG system using OCI GenA
 Please update the setup section of the notebook before running. 
 
 
-### Contributors
-
-Author: Amir Rezaeian
+### Contribution
 
 Last release: 12 Sep 2024
 
