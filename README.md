@@ -1,9 +1,9 @@
 # RAG-tutorial
-we show how to build a conversational RAG system using OCI GenAI service, OCI OpenSearch service and LangChain framework.
+We show how to build a conversational RAG system using OCI GenAI service, OCI OpenSearch service and LangChain framework.
 
 ## Prerequisites
 
-Note that the following prerequisites assume that you already have an Oracle Cloud Account, have access to OCI Generative AI Agents, and OCI OpenSearch. 
+Here we assume that you already have an Oracle Cloud Account, have access to OCI Generative AI Agents, and OCI OpenSearch. 
 If not, you can visit the following product pages for information to get them set up:
 <ul><li> Oracle Cloud account: https://signup.cloud.oracle.com/ </li>
 <li> OCI Generative AI Agents: https://docs.oracle.com/en-us/iaas/Content/generative-ai-agents/home.htm </li>
